@@ -61,11 +61,11 @@
 				95F03BAD238BD08000E8ED7E /* AppDelegate.swift */,
 				95F03BAF238BD08000E8ED7E /* SceneDelegate.swift */,
 				95F03BB1238BD08000E8ED7E /* ContentView.swift */,
+				95F03BC1238BD17E00E8ED7E /* ImagePicker.swift */,
 				95F03BB3238BD08100E8ED7E /* Assets.xcassets */,
 				95F03BB8238BD08100E8ED7E /* LaunchScreen.storyboard */,
 				95F03BBB238BD08100E8ED7E /* Info.plist */,
 				95F03BB5238BD08100E8ED7E /* Preview Content */,
-				95F03BC1238BD17E00E8ED7E /* ImagePicker.swift */,
 			);
 			path = WrappingAUIViewControllerInASwiftUIView;
 			sourceTree = "<group>";
